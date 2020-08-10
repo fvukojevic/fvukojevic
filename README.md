@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**fvukojevic/fvukojevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Ferdo Vukojević
 
-Here are some ideas to get you started:
+- 🔭 I'm a Masters degree Software Engineer 👨‍💻🎧 & Even though my main focus has always been backend, I am trying toe expend into more DevOps and Frontend topics to potentially reach my goal of being a Full Stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+
+- ⚽ My hobbies are: soccer, running, swimming, working out and chess!
+
+- 👯 Feel free to connect on linkedIn. I love meeting new people and exchanging knowledge :) 
+
+## Some of my Github Stats
+![Fvukojevic github stats](https://github-readme-stats.vercel.app/api?username=fvukojevic&show_icons=true)
+
+⭐️ From [fvukojevic](https://github.com/fvukojevic)
