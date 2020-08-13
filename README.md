@@ -8,7 +8,7 @@
 
 - ⚽ My hobbies are: soccer, running, swimming, working out and chess!
 
-- 👯 Feel free to connect on linkedIn. I love meeting new people and exchanging knowledge :) 
+- 👤 Feel free to connect on linkedIn. I love meeting new people and exchanging knowledge :) 
 
 ## Some of my Github Stats
 ![Fvukojevic github stats](https://github-readme-stats.vercel.app/api?username=fvukojevic&show_icons=true)
